@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VAMNotes
-- 👀 We're interested in providing notes and assignments for free because college is more than just submissions! :D
+- 👀 We're interested in providing notes and assignments for free because college is more than just about submissions! :D
 - 🌱 We're currently learning College Stuff
 
 <!---
